@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 app.use(cors({
     origin: [
         'http://localhost:5173',
-        'https://webcodepage.netlify.app/',
+        'https://webcodepage.netlify.app',
     ],
     methods: ['GET', 'POST'],
     allowedHeaders: ['Content-Type']
