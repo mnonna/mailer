@@ -1,5 +1,5 @@
 {
-  "name": "node mailer",
+  "name": "node_email_sender",
   "version": "1.0.0",
   "description": "A simple Node.js application to send emails using Express and Nodemailer.",
   "main": "src/app.js",
